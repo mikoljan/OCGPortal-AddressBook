@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="01d532db-e6fc-41f8-933a-c6071898c065" solutionId="01d532db-e6fc-41f8-933a-c6071898c065" resetWebServer="false" sharePointProductVersion="16.0" name="OCGportal.AddressBook" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="c42bab49-fc28-46a2-a2e6-e745b4df9353" />
+  </projectItems>
+</package>
